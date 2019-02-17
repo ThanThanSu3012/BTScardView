@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.loveurselfans
         };
 
-        Album a = new Album("2 Cool 3 Skoll", 9, covers[0]);
+        Album a = new Album("2 Cool 4 Skoll", 9, covers[0]);
         albumList.add(a);
 
         a = new Album("Are U Late Too?", 10, covers[1]);
